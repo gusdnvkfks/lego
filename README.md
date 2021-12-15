@@ -2,4 +2,5 @@
 
 # 경훈 git 연습
 
-# 경훈 2번째 연습ddddddddd
+# 예림 git 연습ddddd
+# 경훈 수정2
